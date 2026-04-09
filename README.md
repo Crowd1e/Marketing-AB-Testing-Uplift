@@ -141,6 +141,6 @@ Raw Data (588K users)
 
 ## Author
 
-**Furkan Eren Durmaz**
+**Furkan Durmaz**
 Industrial Engineering, Koç University (2023–2027)
 [github.com/Crowd1e](https://github.com/Crowd1e)
